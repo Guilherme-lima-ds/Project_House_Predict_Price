@@ -81,4 +81,5 @@ Existem muitos passos no projeto que poderiam ser refeitos de uma melhor forma, 
 - Mudar o tipo de enconder das variaveis
 - Realizar um Feature Engienner melhor
 - etc...
+
 o ponto e que projeto pode ser melhorado, podendo chegar até em uma precisão melhor, mas isso seria praticamente outro projeto e que no final quem iria descidir seria o "Comprador" ficticio da nossa historia, mas como não tenho esse Feedback de que precisa melhorar mais, eu vou parar por aqui, obrigado por ler, tenha um bom dia!.
