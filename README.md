@@ -40,19 +40,19 @@ Depois de fazer analise exploratoria de dados eu fiz 5 descobetas que vieram da 
 Abaixo vamos ter a Hipotese | Se ele e verdadeira ou não
 
 H1: O crescimento de vendas YoY e de 10%.
-FALSA: O crescimento YoY não cresce ao passar dos anos ele DECAI
+- FALSA: O crescimento YoY não cresce ao passar dos anos ele DECAI
 
 H2: Imóveis com data de construção menor que 1960, são 40% mais baratos, na média.
-FALSA Imoveis com data de contrução menor que 1960 são 41 % mais baratos na média.
+- FALSA Imoveis com data de contrução menor que 1960 são 41 % mais baratos na média.
 
 H3: A região com mais imóveis possui o preço 10% maior do que as outras regiões, na média.
-FALSA: Mesmo a região RL possuindo mais imóveis o preço médio dela e 12% menor do que a região FV que possui menos imóveis.
+- FALSA: Mesmo a região RL possuindo mais imóveis o preço médio dela e 12% menor do que a região FV que possui menos imóveis.
 
 H4: Imóveis com preço abaixo da média representam 45% ou mais da minhas vendas.
-VERDADEIRA: Minhas vendas com os imóveis com preço abaixo da média REPRESENTAM 76% DAS MINHAS VENDAS
+- VERDADEIRA: Minhas vendas com os imóveis com preço abaixo da média REPRESENTAM 76% DAS MINHAS VENDAS
 
 H5:O crescimento de vendas dos imóveis aumenta 10% a cada mes (MoM), na média.
-FALSA: O crescimento a cada mes não é de 10% e tendem até a diminuir com o tempo, com uma queda de 10% no mês 10.
+- FALSA: O crescimento a cada mes não é de 10% e tendem até a diminuir com o tempo, com uma queda de 10% no mês 10.
 
 
 
