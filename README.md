@@ -14,11 +14,13 @@ Para resolver esse projeto eu vou seguir os passos e usar as seguintes ferrament
 
 1.O que será entregue no final?
 No fim Projeto vamos ter
-    - 1. Um modelo com mais de 80% de precisão já que os preços das casas variam muito.
-    - 2. WebApp
-        - Para deploy vamos ter um Webapp que vai funcionar assim:
+- 1. Um modelo com mais de 80% de precisão já que os preços das casas variam muito.
+
+- 2. WebApp
+     - Para deploy vamos ter um Webapp que vai funcionar assim:
             - input: Informações sobre o imóvel
             - output: Preço mais adequado para aquele imóvel ou mais proximo que deveria estar.
+
 2.Ferramentas
     - Python 3
         - Vou usar Python para Coletar, limpar e fazer os modelos de Machine Learning.
