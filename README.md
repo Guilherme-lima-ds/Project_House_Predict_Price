@@ -59,8 +59,7 @@ Quanto a empresa vai ganhar caso siga o que o modelo prediz?
 E caso ele erre quanto a empresa vai faturar?
 Abaixo tempos uma Tabela com essas respostas.
 
-
-
+![image](https://user-images.githubusercontent.com/92899088/174125974-80af2cca-5d64-42f6-8931-3fe32e79e1a7.png)
 
 ### Conclusão Final.
 Agora vamos imaginar a mesma historia do comprador, com o mesmo cliente so que agora ele tem um WebApp com um modelo de Machine Learning rodando por trás, depois que o cliente da o preço do imóvel, aquele acima do preço o comprador agora vai no WebbApp pede as informações para o cliente e tem como retorno um valor que e a metade do preço que o cliente passou, e agora ao inves de comprar o imóvel, você fala para o cliente que está muito acima do preço e que não quer o imóvel, dias depois você encontra aquele imóvel com o preço semelhante ao preço que o modelo te passou, compra o imóvel e dias consegue vender mais caro, fazendo assim a receita da sua empresa aumentar.
