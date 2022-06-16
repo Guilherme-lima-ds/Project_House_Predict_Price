@@ -22,14 +22,14 @@ No fim Projeto vamos ter
             - output: Preço mais adequado para aquele imóvel ou mais proximo que deveria estar.
 
 2.Ferramentas
-    - Python 3
-        - Vou usar Python para Coletar, limpar e fazer os modelos de Machine Learning.
-    - GitHub
-        - Vou usar o Git para versionamento de codigo, ir salvando o projeto a cada etapa.
-    - Streamlit
-        - Vou usar o streamlit para fazer o deploy do modelo e um Webapp
-    - Heroku
-        - Vou usar o heroku para colocar esse webapp criado pelo streamlit na nuvem
+- Python 3
+   - Vou usar Python para Coletar, limpar e fazer os modelos de Machine Learning.
+- GitHub
+   - Vou usar o Git para versionamento de codigo, ir salvando o projeto a cada etapa.
+- Streamlit
+  - Vou usar o streamlit para fazer o deploy do modelo e um Webapp
+- Heroku
+    - Vou usar o heroku para colocar esse webapp criado pelo streamlit na nuvem
 
 3.Como será feito a solução do problema?
     - Para solucionar esse problema eu vou criar um modelo de machine learning que dado os parametros me retorne o preço, para fazer isso eu vou realizar o projeto em ciclos e ir analisando a melhora do modelo passo a passo, o projeto vai levar em média 10 ciclos e no fim de cada ciclo vai ter uma miní-conclusão do projeto, para saber os proximos passos e o resumo que foi feito naquela etapa.
@@ -75,10 +75,10 @@ Por isso me sinto sadisfeito com o projeto pois cheguei até onde eu queria.
 
 ### Próximos Passos
 Existem muitos passos no projeto que poderiam ser refeitos de uma melhor forma, quem sabe numa segunda onda do ciclo de desenvolvimento do projeto eu conseguisse uma precisão maior, so que para isso e para melhorar o projeto o ponto mais crucial seria coletar mais dados, pois com mais dados com certeza teriamos um projeto mais preciso, mas como não e possivel já que e um projeto do Keggle então estou sadisfeito por agora, porém vou lista alguns passos que poderiam ser feitos de uma melhor forma
-    - Coletar mais dados.
-    - Realizar outros tipos de Preenchimento de NA
-    - Dependendo da quantidade de dados até usar uma Rede Neural
-    - Mudar o tipo de enconder das variaveis
-    - Realizar um Feature Engienner melhor
-    - etc...
+- Coletar mais dados.
+- Realizar outros tipos de Preenchimento de NA
+- Dependendo da quantidade de dados até usar uma Rede Neural
+- Mudar o tipo de enconder das variaveis
+- Realizar um Feature Engienner melhor
+- etc...
 o ponto e que projeto pode ser melhorado, podendo chegar até em uma precisão melhor, mas isso seria praticamente outro projeto e que no final quem iria descidir seria o "Comprador" ficticio da nossa historia, mas como não tenho esse Feedback de que precisa melhorar mais, eu vou parar por aqui, obrigado por ler, tenha um bom dia!.
