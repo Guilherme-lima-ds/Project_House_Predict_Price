@@ -1,6 +1,6 @@
 # Project House Predict Price
 
-https://fthmb.tqn.com/62sxFfsMl9FsB3Dro7J5Q1P9RjI=/1500x1135/filters:fill(auto,1)/Pricing-Houses-to-Sell-578012825f9b5831b5af6bd1.jpg
+![image](https://user-images.githubusercontent.com/92899088/174828810-56723853-8928-43ed-a660-c50badd75afe.png)
 
 Imagine que você é um comprador de imóveis e que está negociando com algum potencial cliente e durante a conversa ele diz que o imóvel está com um otímo preço e que você vai ter sorte de comprar por esse preço, como você não e bobo em nem nada, você começa a pensar em todos os negocios que fez, começa a fazer os calculos de cabeça ou até em uma folha de papel até que percebe que sim e um bom negócio e compra aquele imóvel, dias depois procurando por mais imóveis você encontra um que e semelhante ao imóvel que você comprou so que esse está pela metade do preço, e você descobre que foi engano e que perdeu dinheiro.
 Buscando uma forma de resolver esse problema, você contrata uma consutoria de Ciência de dados, você nem sabe muito bem o que é, porém ouviu falar que pode ajudar você no seu negocio pois eles trabalham com uma tal de Inteligencia artificial, então você resolve
